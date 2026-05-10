@@ -115,7 +115,7 @@ window.SITE = {
   // ============================================================
   about: {
     portrait:      '肖像/肖像.jpg',         // 肖像图,可换为真实肖像
-    portraitLabel: '[ 4:5 — 可替换为肖像照 ]',
+    portraitLabel: '[ 你好啊 ]',
     quote:         '我拍的不是地方,是 <em>停下来</em> 的那一刻。',
     paragraphs: [
       '松屋是一间不在地图上、需要经常打理的屋子,不太勤快的我住在这里。常用一台 Nikon Z50 II,配 25mm / 35mm / 50-250mm 三支镜头,在祖国西南之间慢慢走。',
@@ -147,7 +147,7 @@ window.SITE = {
   // ============================================================
   footer: {
     brandHtml: '松屋 — 看 <em>慢一点</em> 的光。',
-    brandMeta: 'PHOTOGRAPHY · EST. 2024',
+    brandMeta: 'PHOTOGRAPHY · EST. 2026',
     copy:      '© 2024 — 2026 Songwu. All frames reserved.',
     set:       ' ',
     rollDate:  '2026 · 05',
