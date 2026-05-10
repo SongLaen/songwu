@@ -1,0 +1,1 @@
+{"name":"matsuya-tools","version":"1.0.0","private":true,"dependencies":{"exifr":"^7.1.3","image-size":"^2.0.2","puppeteer":"^24.43.0"}}
